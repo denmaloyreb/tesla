@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+}
+
+.container {
+    background: red;
+    max-width: 1600px;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+.wrapper {
+    background: burlywood;
+    max-width: 1200px;
+}
