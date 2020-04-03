@@ -336,3 +336,7 @@ body {
     position: absolute;
     left: -5px
 }
+
+@media (max-width: 1000px) {
+    
+}
