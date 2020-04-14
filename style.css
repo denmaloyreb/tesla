@@ -408,7 +408,7 @@ body {
     }
 }
 
-@media (max-width: 325px) {
+@media (max-width: 334px) {
     .header-content__title {
         font-size: 68px;
         line-height: 31px;
